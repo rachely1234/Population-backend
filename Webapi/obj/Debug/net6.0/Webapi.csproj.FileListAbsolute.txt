@@ -1,0 +1,164 @@
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\appsettings.json
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Webapi.exe
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Webapi.deps.json
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Webapi.runtimeconfig.json
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Webapi.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Webapi.pdb
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\AutoMapper.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\AutoMapper.Collection.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Humanizer.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\DAL.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Models.dll
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\DAL.pdb
+C:\לימודים תשפד\clone\Webapi\bin\Debug\net6.0\Models.pdb
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.csproj.AssemblyReference.cache
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfoInputs.cache
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfo.cs
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.csproj.CoreCompileInputs.cache
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\scopedcss\bundle\Webapi.styles.css
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.csproj.CopyComplete
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.dll
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\refint\Webapi.dll
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.pdb
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\Webapi.genruntimeconfig.cache
+C:\לימודים תשפד\clone\Webapi\obj\Debug\net6.0\ref\Webapi.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\appsettings.json
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Webapi.exe
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Webapi.deps.json
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Webapi.runtimeconfig.json
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Webapi.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Webapi.pdb
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\AutoMapper.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\AutoMapper.Collection.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Humanizer.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\DAL.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Models.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\DAL.pdb
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Models.pdb
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.csproj.AssemblyReference.cache
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfoInputs.cache
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.AssemblyInfo.cs
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.csproj.CoreCompileInputs.cache
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\scopedcss\bundle\Webapi.styles.css
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.csproj.CopyComplete
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.dll
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\refint\Webapi.dll
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.pdb
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\Webapi.genruntimeconfig.cache
+C:\לימודים תשפד\project to mega tech\Webapi\obj\Debug\net6.0\ref\Webapi.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Serilog.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\SQLite-net.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\לימודים תשפד\project to mega tech\Webapi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
